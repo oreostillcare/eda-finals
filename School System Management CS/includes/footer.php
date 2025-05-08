@@ -1,4 +1,4 @@
-</div> <!-- End of row from header -->
+</div> <!-- End of row from ),7;7;7(header -->
     </div> <!-- End of container-fluid from header -->
 </div> <!-- End of content-wrapper from header -->
 
